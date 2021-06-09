@@ -7,3 +7,6 @@ but generating a unicode password is hard, it consists of 3 steps:
 (there's a reason why storing in base64 format is good)
 2. Filtering the generated unicode that is in base64 format
 3. Take the filtered unicode(lists) and use them to generate unicode password
+
+
+This application is the first step in generating random unicode password
