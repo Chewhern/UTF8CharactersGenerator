@@ -9,4 +9,4 @@ but generating a unicode password is hard, it consists of 3 steps:
 3. Take the filtered unicode(lists) and use them to generate unicode password
 
 
-This application is the first step in generating random unicode password
+This application is the <b>first</b> step in generating random unicode password
